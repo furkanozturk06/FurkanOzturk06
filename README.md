@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Coded portrait — neofetch-style card (same dark look in both themes). -->
-<img alt="Furkan Öztürk" src="./assets/face-dark.svg?v=12" width="100%">
+<img alt="Furkan Öztürk" src="./assets/face-dark.svg?v=13" width="100%">
 
 </div>
 
